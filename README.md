@@ -1,5 +1,5 @@
 Author: Zayne Foster\
-Project: Survey/Test Generator (SE 310 Homework 2)
+Project: Survey/Test Generator
 
 The contained project allows users to create, display, load, store, take, modify, and tabulate custom surveys and tests.
 Additionally, test items can be displayed with correct answers and graded based on those correct answers. The project
